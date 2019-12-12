@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:dyapi:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dyapi/build/.transforms/e34eb735d16b27460e8a45d565febaac/jetified-dyapi/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/dyapi/build/.transforms/e34eb735d16b27460e8a45d565febaac/jetified-dyapi/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
